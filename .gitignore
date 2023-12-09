@@ -1,0 +1,10 @@
+# Ignore Parcel build files
+dist/
+.parcel-cache/
+
+# Dependency directories
+/node_modules/
+
+# Environment variables
+.env
+
